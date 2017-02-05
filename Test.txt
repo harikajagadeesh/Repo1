@@ -1,2 +1,4 @@
+
 Hi this is test
 This is master
+This is branch merging into master 
